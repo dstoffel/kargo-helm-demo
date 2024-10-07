@@ -1,0 +1,6 @@
+apiVersion: v2
+appVersion: 0.0.1
+dependencies:
+- name: hello
+  repository: https://cloudecho.github.io/charts/ 
+  version: 0.1.0
