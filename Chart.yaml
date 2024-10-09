@@ -1,0 +1,12 @@
+apiVersion: v2
+appVersion: 0.1.0
+dependencies:
+- name: hello
+  repository: https://cloudecho.github.io/charts/ 
+  version: 0.1.1
+
+name: parent-hello
+sources:
+- https://github.com/dstoffel/kargo-helm-demo
+type: application
+version: 0.1.0

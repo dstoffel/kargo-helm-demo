@@ -1,0 +1,6 @@
+dependencies:
+- name: hello
+  repository: https://cloudecho.github.io/charts/
+  version: 0.1.1
+digest: sha256:cbdb33d2283e0b5da45f7af0995ddbc38f579399693a0d24f81f69b90b083fed
+generated: "2024-10-09T08:10:05.67063753Z"
