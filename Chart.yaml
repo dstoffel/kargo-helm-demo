@@ -3,7 +3,7 @@ appVersion: 0.1.0
 dependencies:
 - name: hello
   repository: https://cloudecho.github.io/charts/ 
-  version: 0.1.1
+  version: 0.1.0
 
 name: parent-hello
 sources:
